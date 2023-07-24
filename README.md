@@ -17,7 +17,7 @@ I'm a software engineer who likes solving problems and developing different proj
 
 
 ## 🔗 How to reach me:
-[![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/barış-eroğlu-455783181)
+[![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/barış-eroğlu-455783181)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:baris.eroglu.03@gmail.com)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ErogluBaris)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@baris.eroglu.03)
